@@ -85,7 +85,7 @@
 		&kp EXCL  &kp AT &kp LBRC  &kp RBRC  &kp PIPE    			&kp C_PREV  &kp C_NEXT &kp C_PP &kp HOME &kp MINUS 
 		&kp HASH  &kp DLLR  &kp KP_LPAR  &kp KP_RPAR  &kp AMPS 			&kp C_VOL_UP &kp PG_UP  &kp UP  &kp PG_DN   &kp BSPC
 		&kp PRCNT  &kp CARET &kp LBKT &kp RBKT   &kp EQUAL    			&kp C_VOL_DN &kp LEFT &kp DOWN &kp RIGHT  &kp RIGHT
-					  &kp 3 &kp LCTRL  				&trans  &mo 3 
+					  &kp DEL &kp (LSHFT|LALT|MINUS)  				&trans  &mo 3 
 		>;
 		};	
 		
