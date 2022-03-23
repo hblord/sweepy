@@ -29,12 +29,7 @@
             key-positions = <10 11>;
             bindings = <&kp TAB>;
         };
-        
-           combo_mute {
-            timeout-ms = <20>;
-            key-positions = <15 25>;
-            bindings = <&kp C_MUTE>;
-        };
+       
         
 
         
