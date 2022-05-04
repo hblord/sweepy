@@ -30,11 +30,6 @@
             bindings = <&kp TAB>;
         };
        
-         combo_shift {
-            timeout-ms = <15>;
-            key-positions = <28 29>;
-            bindings = <&kp LSHFT>;
-        };
 
 
         
