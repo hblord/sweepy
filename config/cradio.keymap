@@ -42,7 +42,7 @@
             bindings = <LA(&kp DEL)>;
         };
 	
-	combo_alt_backspace {
+	combo_alt_bspc {
             timeout-ms = <15>;
             key-positions = <17 18>;
             bindings = <LA(&kp BSPC)>;
